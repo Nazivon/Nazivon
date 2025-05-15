@@ -15,4 +15,5 @@ Meu nome é Nazivon Santos. Sou estudante do curso de Sistemas de Informação n
 📫 Como me contatar: envie uma mensagem! / How to reach me: send a message!
 
 😄 Pronomes: ele/o / Pronouns: he/him
+
 ⚡ Um fato sobre mim: passei na USP 5 vezes, em 4 anos diferentes para 5 cursos diferentes! Mas o curso em que estou atualmente é o que fiquei matriculado por mais tempo, e realmente gosto muito dele. / Fun fact: I've been accepted to the University of Sao Paulo 5 times, in 4 different years to 5 different courses! But the course I'm currently enrolled in is the one I've stayed in the longest, and I really appreciate it.
