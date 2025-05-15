@@ -1,4 +1,4 @@
-## Olá / Hi there 👋
+## Olá 👋 / Hi there 👋
 
 Meu nome é Nazivon Santos. Sou estudante do curso de Sistemas de Informação na EACH-USP! Ingressei nesse curso por causa do meu interesse nos mais variados temas de tecnologia. Gosto muito de dados, jogos, estatística, testes e simulações. / My name is Nazivon Santos. I'm an undergraduate student of Information Systems at EACH-USP (School of Arts, Sciences and Humanities - University of São Paulo)! I started the course because I have an ardent interest in the most varied technology themes. I also really enjoy data, games, statistics, simulations and testing.
 
