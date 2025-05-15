@@ -12,7 +12,7 @@ Meu nome é Nazivon Santos. Sou estudante do curso de Sistemas de Informação n
 
 💬 Me pergunte sobre minhas ideias de projetos e meus planos para o futuro na área de programação! // Ask me about my idealized projects and my plans for the future in the programming field!
 
-📫 Como me contatar: envie uma mensagem! / How to reach me: send a message!
+📫 Como me contatar: envie uma mensagem! // How to reach me: send a message!
 
 😄 Pronomes: ele/o // Pronouns: he/him
 
