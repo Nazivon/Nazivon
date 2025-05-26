@@ -4,7 +4,7 @@ Meu nome é Nazivon Santos. Sou estudante do curso de Sistemas de Informação n
 
 🔭 Atualmente tenho alguns projetos pessoas engatados, que eu gostaria de tornar disponíveis no GitHub quando estiverem prontos. // Currently I have some personal projects I'm working on, that I'd like to make available on GitHub as soon as they're ready
 
-🌱 Eu não possuía qualquer experiência de programação até ingressar na faculdade, então todos os conteúdos ensinados foram completamente novos e contribuíram enormemente para o meu aprendizado. No momento, estou com interesse em aprendar mais sobre interfaces gráficas. // I did not have any kind of programming experience up to entering university, so all the subjects were completely new to me and contributed enormously to my learning. At the moment, I'm looking forward to learn more about graphical user interfaces (GUI).
+🌱 Eu não possuía qualquer experiência de programação até ingressar na faculdade, então todos os conteúdos ensinados foram completamente novos e contribuíram enormemente para o meu aprendizado. No momento, tenho interesse em aprender mais sobre interfaces gráficas. // I did not have any kind of programming experience up to entering university, so all the subjects were completely new to me and contributed enormously to my learning. At the moment, I'm looking forward to learn more about graphical user interfaces (GUI).
 
 👯 Gostaria muito de colaborar com outras pessoas nos mais diversos projetos, para enriquecer o meu GitHub e trocar experiências! // I'd like very much to collaborate with other people in a lot of projects, in order to enhance my GitHub and exchange experiences!
 
