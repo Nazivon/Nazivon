@@ -19,3 +19,9 @@ Meu perfil no LinkedIn // My LinkedIn profile: https://www.linkedin.com/in/naziv
 😄 Pronomes: ele/o // Pronouns: he/him
 
 ⚡ Um fato sobre mim: passei na USP 5 vezes, em 4 anos diferentes para 5 cursos diferentes! Mas o curso em que estou atualmente é o que fiquei matriculado por mais tempo, e realmente gosto muito dele. // Fun fact: I've been accepted to the University of Sao Paulo 5 times, in 4 different years to 5 different courses! But the course I'm currently enrolled in is the one I've stayed in the longest, and I really like it.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazivon/Nazivon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazivon/Nazivon/output/github-contribution-grid-snake.svg">
+  <img alt="github grid snake contribution graph" src="https://raw.githubusercontent.com/Nazivon/Nazivon/output/github-contribution-grid-snake.svg">
+</picture>
