@@ -4,7 +4,7 @@ Meu nome é Nazivon Santos. Sou estudante do curso de Sistemas de Informação n
 
 Meu perfil no LinkedIn // My LinkedIn profile: https://www.linkedin.com/in/nazivonsantos
 
-🔭 Atualmente tenho alguns projetos pessoas engatados, que eu gostaria de tornar disponíveis no GitHub quando estiverem prontos. // Currently I have some personal projects in the works, that I'd like to make available on GitHub as soon as they are ready.
+🔭 Atualmente tenho alguns projetos pessoais engatados, que eu gostaria de tornar disponíveis no GitHub quando estiverem prontos. // Currently I have some personal projects in the works, that I'd like to make available on GitHub as soon as they are ready.
 
 🌱 Eu não possuía qualquer experiência de programação até ingressar na faculdade, então todos os conteúdos ensinados foram completamente novos e contribuíram enormemente para o meu aprendizado. No momento, tenho interesse em aprender mais sobre interfaces gráficas. // I did not have any kind of programming experience before entering university, so all the subjects were completely new to me and contributed enormously to my learning. At the moment, I'm looking forward to learn more about graphical user interfaces (GUI).
 
